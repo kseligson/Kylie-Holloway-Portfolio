@@ -1,0 +1,33 @@
+.pic{
+  max-height:300px;
+  overflow:hidden;
+  }
+
+h2{
+  text-align:center;
+}
+
+img {
+  width:100%;
+  height:auto;
+}
+
+.sub-pic img{
+  width:100%;
+}
+
+.photo-cred{
+  font-style: sans-serif;
+  text-align:right;
+}
+
+.role{
+  text-align:center;
+  padding-bottom:2px;
+  color:black;
+  }
+
+.foosh-2 img{
+  top:0;
+}
+

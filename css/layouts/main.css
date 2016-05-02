@@ -1,0 +1,132 @@
+* {
+  margin:0;
+}
+
+html,body {
+  height:100%
+}
+
+h2 {
+  padding: 10px 5px 5px 5px;  
+  font-style:italic;
+  font-size:500%;
+  color:#0f0f0f;
+}
+
+h3 {
+  padding: 4px 2px 3px;
+  font-style: normal;
+  font-size: 200%;
+}
+
+hr{
+  text-align:center;
+  margin:0 auto;
+
+  margin-top:15px;
+  margin-bottom:15px;
+
+  color:#dddddd;
+  background-color:#dddddd;
+  width:80%;
+  }
+
+body{
+  /*background-color: #ffffff;*/
+  background: url("../../images/upfeathers.png") repeat center center fixed;
+}
+
+img {
+  width:100%;
+  height:auto;
+}
+
+
+.wrapper  {
+  min-height: 100%;
+  margin:35px auto;
+  color:#0c0c0c;
+  max-width:700px;
+  overflow:hidden;
+  font-family: 'Libre Baskerville', serif;
+}
+
+
+.description {
+  margin:0 auto;
+  max-width:400px;
+  font-size:20px;
+}
+
+.description p{
+  text-indent: 30px;
+  text-align: justify;
+  }
+
+.front-img {
+  padding-bottom: 20px;
+}
+
+.front-img img {
+  width: 100%;
+  object-fit: cover;
+  height: 300px;
+}
+
+.front-img-2 {
+  max-height:400px;
+}
+
+.front-img-2 img {
+  width: 100%;
+  object-fit: cover;
+  height: 300px;
+}
+
+
+
+/* NAV BAR CSS STUFF */
+.nav-bar {
+  /* Stick to top of page */
+  position:fixed;
+  top: 0px;
+  width: 100%;
+
+  background: #ffffff;
+  display:block;
+  font-size:15px;
+  border-bottom: 2px solid #dddddd;
+}
+
+.nav-bar .container{
+  max-width: 700px;
+  text-align:center;
+  margin: 0 auto;
+  }
+
+.container a:hover{
+  background:#dddddd;
+}
+
+.nav-bar a{
+  text-decoration: none;
+  font-family: 'Libre Baskerville', serif;
+  color: #1e1e1e;
+  display:block;
+  background:#ffffff;
+  padding:5px;
+  margin-top:10px;
+  margin-bottom:10px;
+  border-right: 1px solid #eecc00;
+  border-left: 1px solid #eecc00;
+}
+
+.nav-bar a.left{
+  border-left: 2px solid #eecc00;
+}
+
+.nav-bar a.right{
+  border-right: 2px solid #eecc00;
+}
+
+ 

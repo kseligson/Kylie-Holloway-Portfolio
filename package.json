@@ -1,0 +1,19 @@
+{
+  "name": "kyliehollowayportfolio",
+  "version": "1.0.0",
+  "description": "Online portfolio for Kylie Holloway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kseligson/Kylie-Holloway-Portfolio.git"
+  },
+  "author": "Cole Steffensen and Kaitlin Seligson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kseligson/Kylie-Holloway-Portfolio/issues"
+  },
+  "homepage": "https://github.com/kseligson/Kylie-Holloway-Portfolio#readme"
+}
